@@ -1,4 +1,4 @@
-# Data Analyst & Scientist
+# Data Analyst & Engineer
 
 #### Technical Skills: Python, SQL, NoSQL, AWS
 
