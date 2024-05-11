@@ -7,7 +7,7 @@
 - BSc., Economics | Kingston University (Sept 2017 - Aug 2020)
 
 ### Work Experience 
-**Account Handler @ Prospectus (Aug 2023 - Jan 2024)**
+**Data Sales Representative @ Prospectus (Aug 2023 - Jan 2024)**
 - Responsible for creation, placement and production of campaigns, working with media and clients in the recruitment advertising industry.
 - Created spreadsheets via Excel and other documents for data entry to present financial information to senior management.
 - Conducted market research to identify industry trends and commercial opportunities for business development and increased efficiency.
