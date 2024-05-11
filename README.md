@@ -38,4 +38,7 @@
 ### Database Creation & Querying
 Developed databases in Cassandra and MongoDB with original data using respective NoSQL languages to create structures and implement queries demonstrating a range in complexity.
 
+[Big Data Report](/assets/BigDataReport.pdf)
+[Data Visualisation Project](/assets/DataVisualisationReport.pdf)
 [Graph & Modern Databases Report](/assets/Graph&ModernDatabasesReport.pdf)
+
