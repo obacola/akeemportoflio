@@ -35,6 +35,8 @@
 
 
 ## Projects
+[Applied Machine Learning Project](/assets/AppliedMachineLearningReport.pdf)
+
 [Big Data Project](/assets/BigDataReport.pdf)
 
 [Data Visualisation Project](/assets/DataVisualisationReport.pdf)
