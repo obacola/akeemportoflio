@@ -4,7 +4,7 @@
 
 ### Education
 - MSc., Big Data and Business Intelligence | University of Greenwich (January 2024 - January 2025)
-- BSc., Economics | Kingston University (Sept 2017 - Aug 2020)
+- BSc., Economics | Kingston University (Grade 2:1)
 
 ### Work Experience 
 **Data Sales Representative @ Prospectus (Aug 2023 - Jan 2024)**
