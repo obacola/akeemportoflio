@@ -35,7 +35,7 @@
 
 
 ## Projects
-[Applied Machine Learning Project](/assets/AppliedMachineLearningReport.pdf)
+[Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
 
 [Data Visualisation Code](/assets/DataVisualisationCode.ipynb)
 
