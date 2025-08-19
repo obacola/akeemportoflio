@@ -1,9 +1,9 @@
-# Data Analyst & Engineer
+# Data Analyst & Scientist
 
 #### Technical Skills: Python, SQL, NoSQL, AWS
 
 ### Education
-- MSc., Big Data and Business Intelligence | University of Greenwich (January 2024 - January 2025)
+- MSc., Big Data and Business Intelligence | University of Greenwich (Grade: 1st Distinction)
 - BSc., Economics | Kingston University (Grade 2:1)
 
 ### Work Experience 
