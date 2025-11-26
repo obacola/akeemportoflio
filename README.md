@@ -27,6 +27,17 @@
 - Liaised with clients and colleagues regarding issues or data queries via CRM systems.
 - Professional development of new technical and copyright developments within the music industry to comply with complex procedures of work entry.
 
+**Data & Sales Coordinator @ Rounders (Nov 2020 - Dec 2022)**
+- Executed data queries using SQL to organise and maintain databases.
+- Created and maintained spreadsheets using advanced Excel functions and calculations to develop reports and lists.
+- Designed, created and maintained website using SQL in conjunction with platforms Wix and Wordpress.
+- Led marketing campaigns to promote the business, secure new clients and realise substantial growth.
+- Managed change requests from developers, stakeholders and customers.
+
+**Admin Assistant @ Ukon Careers (Jan 2017 - June 2020)**
+- Assisted with upkeep of business ledger/data entry via Excel and other administrative duties e.g. dealing with email enquiries, maintaining the company social mediums.
+- Actively supported the planning and delivery of annual children’s day event. This included graphic design, event promotion on social mediums and running creative stools.
+- Liaised with key stakeholders via telephone and email communication for project management in the planning of events/workshops.
 
 ## Projects
 [Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
