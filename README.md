@@ -7,7 +7,7 @@
 - BSc., Economics | Kingston University (Grade 2:1)
 
 ### Work Experience 
-**Non-Commodity Pricing Analyst @ Brook Green Supply (Jan 2025 - Present)**
+**Non-Commodity Pricing Analyst @ Brook Green Supply (Jan 2025 - Nov 2025)**
 - Leveraged Python and SQL to create data-driven tools that enhanced forecasting accuracy and streamline pricing reports, leading to improved insights and decision making across the company. 
 - Streamlined internal systems by auditing and amending errors on customer contracts and agreements, ensuring data integrity and supporting the sales team in finalising sales. 
 - Collaborated cross-functionally with sales, trading and billing teams to leverage resources and innovate pricing strategies, using government-released non commodity price data to create more competitive offerings.  
