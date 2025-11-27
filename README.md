@@ -34,11 +34,6 @@
 - Led marketing campaigns to promote the business, secure new clients and realise substantial growth.
 - Managed change requests from developers, stakeholders and customers.
 
-**Admin Assistant @ Ukon Careers (Jan 2017 - June 2020)**
-- Assisted with upkeep of business ledger/data entry via Excel and other administrative duties e.g. dealing with email enquiries, maintaining the company social mediums.
-- Actively supported the planning and delivery of annual children’s day event. This included graphic design, event promotion on social mediums and running creative stools.
-- Liaised with key stakeholders via telephone and email communication for project management in the planning of events/workshops.
-
 ## Projects
 [Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
 
