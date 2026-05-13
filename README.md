@@ -7,7 +7,7 @@
 - BSc., Economics | Kingston University (Grade 2:1)
 
 ### Publications
-- Global Journal of Engineering and Technology Advances, 2024, 20(03), 006–033; A comprehensive review of combating EDoS attacks in cloud services with deep learning and advanced network security technologies including DDoS protection and intrusion prevention systems, DOI: [https://doi.org/10.30574/gjeta.2024.20.3.0168](assets/GJETA-2024-0168.pdf)
+- Global Journal of Engineering and Technology Advances, 2024, 20(03), 006–033; A comprehensive review of combating EDoS attacks in cloud services with deep learning and advanced network security technologies including DDoS protection and intrusion prevention systems, DOI: [https://doi.org/10.30574/gjeta.2024.20.3.0168](assets/GJETA20240168.pdf)
 
 ### Work Experience 
 **Career Break (Dec 2025 - Present)**
