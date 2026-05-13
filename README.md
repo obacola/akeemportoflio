@@ -55,8 +55,6 @@
 ## Projects
 [Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
 
-[Data Visualisation Code](/assets/DataVisualisationCode.ipynb)
-
 [Big Data Project](/assets/BigDataReport.pdf)
 
 [Graph & Modern Databases Project](/assets/Graph&ModernDatabasesReport.pdf)
