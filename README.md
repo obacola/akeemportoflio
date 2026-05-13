@@ -30,7 +30,7 @@
 - Led and contributed to the Corporate Social Responsibility initiative, ‘Your Hair and Health Matters’, in partnership with Abalon UK charity, screening 500 individuals in Chatham Kent for diabetes risk and highlighting the need for community health education.
 
 **Data Sales Representative @ Prospectus (Aug 2023 - Jan 2024)**
-- Developed and executed data driven campaign strategies in line with business objectives, resulting in a 35% increase in conversion rate for 9 clients.
+- Developed and executed data driven campaign strategies in line with business objectives, resulting in surplused conversion for client portfolio.
 - Leveraged Bullhorn CRM to analyse client engagement metrics and track invoice status, identifying opportunities to optimise campaign performance, increase ROI, and ensure timely client payments.
 - Utilised Excel to create comprehensive financial reports, providing actionable insights to senior management and driving budget optimisation.
 - Conducted in-depth market research to identify emerging trends and untapped opportunities, leading to the acquisition of new clients and 10% increase in revenue.
