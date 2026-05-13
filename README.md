@@ -16,7 +16,7 @@
 - Forecasted and modelled non-commodity costs across electricity and gas portfolio, i.e. distribution, transmission, environmental & governmental levies.
 - Ensured accuracy, scalability and compliance with pricing models in line with market dynamism and regulatory frameworks.
 - Collaborated with Sales, Operations, Finance and Regulatory teams to ensure non-commodity inputs are correctly reflected in pricing, billing, and reconciliations.
-- Supported large-deal pricing and bespoke tenders by providing clear, data-backed insights to account managers and senior stakeholders.
+- Supported large-deal pricing and bespoke tenders by providing clear, data-backed insights to account managers and senior stakeholders (circa £10 million).
 - Investigated and reconciled variances between forecast and billed costs, identifying feature variables, and proposing improvements.
 - Automated reporting processes and built smarter workflows using Python, SQL, and Excel.
 - Maintained up to date industry knowledge — network charging reforms, regulatory consultations, and system operator updates to support the team in adapting proactively.
