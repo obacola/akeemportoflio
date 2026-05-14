@@ -1,10 +1,8 @@
 # Quantitative Researcher
 
-#### Technical Skills: Python, SQL, NoSQL, Excel
-
 ### Education
-- MSc., Big Data and Business Intelligence | University of Greenwich (Grade: 1st Distinction)
-- BSc., Economics | Kingston University (Grade 2:1)
+- Master of Science in Big Data & Business Intelligence | University of Greenwich (Grade: Distinction 1st Class)
+- Bachelor of Science in Economics | Kingston University (Grade: Upper Second Class Honours 2:1)
 
 ### Publications
 - Global Journal of Engineering and Technology Advances, 2024, 20(03), 006–033; A comprehensive review of combating EDoS attacks in cloud services with deep learning and advanced network security technologies including DDoS protection and intrusion prevention systems, DOI: [https://doi.org/10.30574/gjeta.2024.20.3.0168](assets/GJETA20240168.pdf)
@@ -13,44 +11,47 @@
 **Career Break (Dec 2025 - Present)**
 
 **Non-Commodity Pricing Analyst @ Brook Green Supply (Jan 2025 - Nov 2025)**
-- Forecasted and modelled non-commodity costs across electricity and gas portfolio, i.e. distribution, transmission, environmental & governmental levies.
-- Ensured accuracy, scalability and compliance with pricing models in line with market dynamism and regulatory frameworks.
-- Collaborated with Sales, Operations, Finance and Regulatory teams to ensure non-commodity inputs are correctly reflected in pricing, billing, and reconciliations.
-- Supported large-deal pricing and bespoke tenders by providing clear, data-backed insights to account managers and senior stakeholders (circa £10 million).
-- Investigated and reconciled variances between forecast and billed costs, identifying feature variables, and proposing improvements.
-- Automated reporting processes and built smarter workflows using Python, SQL, and Excel.
-- Maintained up to date industry knowledge — network charging reforms, regulatory consultations, and system operator updates to support the team in adapting proactively.
-- Created clear, engaging reports and dashboards to communicate findings and market movements.
+- Forecasted and modelled non-commodity cost drivers including transmission, distribution, environmental, and governmental levies to support portfolio optimisation and pricing accuracy.
+- Supported large commercial tenders valued at approximately £10 million by delivering pricing models, forecasting analysis, and data-driven commercial insights to account managers and senior stakeholders.
+- Investigated forecast-to-bill variances, identified key cost drivers and feature variables, and recommended process improvements to strengthen forecasting accuracy and reconciliation performance.
+- Automated reporting and pricing analysis workflows using Python, SQL, and Excel to improve analytical efficiency and reporting consistency.
+- Developed dashboards and reporting tools to communicate market movements, pricing forecasts, and analytical findings to operational and commercial stakeholders.
+- Monitored network charging reforms, regulatory consultations, and energy market developments to support proactive pricing and forecasting strategies.
 
 **Digital Data Analyst @ Time 4 U (Jul 2024 - Jun 2025)**
-- Developed engaging social media and website content using Canva and Photoshop, driving higher impressions, follower growth, and lead generation.
-- Planned and executed targeted campaigns via Google Ads, optimising budgets and metrics to reach key audience segments effectively.
-- Composed and updated blog posts highlighting supported living services, improving brand awareness and demonstrating expertise in complex care management.
-- Built and maintained an interactive company website using Node.js, Java, and JSON via GitHub and Cloudflare, transforming a static site into a dynamic user experience.
-- Led and contributed to the Corporate Social Responsibility initiative, ‘Your Hair and Health Matters’, in partnership with Abalon UK charity, screening 500 individuals in Chatham Kent for diabetes risk and highlighting the need for community health education.
+- Developed digital content, engagement campaigns, and analytics-driven communication strategies supporting audience growth, lead generation, and online engagement.
+- Built and maintained an interactive organisational website using Node.js, Java, JSON, GitHub, and Cloudflare, enhancing usability and digital accessibility.
+- Supported targeted campaign optimisation using Google Ads and engagement analytics to improve audience reach and campaign performance.
+- Contributed to the ‘Your Hair and Health Matters’ Corporate Social Responsibility initiative in partnership with Abalon UK, supporting diabetes risk screening and community health awareness activities involving approximately 500 participants.
+- Produced analytical reports and digital content supporting public engagement, organisational visibility, and community health education initiatives.
 
 **Data Sales Representative @ Prospectus (Aug 2023 - Jan 2024)**
-- Developed and executed data driven campaign strategies in line with business objectives, resulting in surplused conversion for client portfolio.
-- Leveraged Bullhorn CRM to analyse client engagement metrics and track invoice status, identifying opportunities to optimise campaign performance, increase ROI, and ensure timely client payments.
-- Utilised Excel to create comprehensive financial reports, providing actionable insights to senior management and driving budget optimisation.
-- Conducted in-depth market research to identify emerging trends and untapped opportunities, leading to the acquisition of new clients and 10% increase in revenue.
-- Successfully managed a portfolio of 9 accounts, achieving improved client satisfaction through strategic planning and execution.
+- Developed and executed data-driven recruitment campaign strategies aligned with commercial objectives, contributing to improved conversion performance across client portfolios.
+- Leveraged Bullhorn CRM analytics to monitor client engagement metrics, invoice tracking, and campaign performance, identifying opportunities to optimise ROI, strengthen client retention, and improve payment efficiency.
+- Produced financial and operational reports using Excel, delivering actionable insights to senior management to support commercial decision-making and budget optimisation.
+- Conducted market research and competitor analysis to identify emerging trends, business opportunities, and prospective client segments, contributing to new client acquisition and approximately 10% revenue growth.
+- Managed a portfolio of nine client accounts, supporting stakeholder engagement, campaign delivery, and long-term client relationship management through strategic coordination and performance monitoring.
 
 **Works Entry Assistant @ Kobalt (Jan 2023 - June 2023)**
-- Developed and implemented data management strategies for metadata, ensuring accuracy and consistency for efficient royalty distribution, achieving team accuracy rate of 97%.
-- Designed and optimised smart contract templates using in-house database systems to streamline royalty payments and reduce processing time.
-- Conducted in-depth analysis of industry trends and regulatory changes to identify opportunities for process improvements and data optimisation.
-- Built and maintained SQL databases to effectively store, manage and analyse music metadata, enabling data -driven decision making.
-- Provided data-driven insights and recommendations to the copyright department, leading to improved work entry processes and increased efficiency.
+- Developed and maintained metadata management processes supporting royalty distribution accuracy and operational consistency, contributing to a team accuracy rate of 97%.
+- Designed and optimised smart contract templates and database workflows to improve royalty processing efficiency and reduce administrative turnaround times.
+- Built and maintained SQL databases supporting storage, management, and analysis of music metadata and copyright information.
+- Conducted analysis of industry trends and regulatory developments to identify opportunities for process optimisation and workflow improvements.
+- Delivered analytical insights and operational recommendations supporting improvements in work entry processes and metadata governance.
 
 
-**Data & Sales Coordinator @ Rounders (Nov 2020 - Dec 2022)**
-- Executed data queries using SQL to organise and maintain databases.
-- Created and maintained spreadsheets using advanced Excel functions and calculations to develop reports and lists.
-- Designed, created and maintained website using SQL in conjunction with platform Wix.
-- Led marketing campaigns to promote the business, secure new clients and realise substantial growth.
-- Managed change requests from developers, stakeholders, and customers.
+**Data & Sales Coordinator @ Rounders England (Nov 2020 - Dec 2022)**
+- Executed SQL queries to organise, maintain, and manage operational databases supporting reporting accuracy, customer data management, and business administration processes.
+- Developed and maintained operational reports and analytical spreadsheets using advanced Excel functions to support data tracking, performance monitoring, and decision-making activities.
+- Designed, developed, and maintained website functionality using SQL and Wix platform integrations to enhance digital engagement and user experience.
+- Supported marketing and customer engagement campaigns to strengthen organisational visibility, stakeholder outreach, and business growth objectives.
+- Coordinated change requests between developers, stakeholders, and customers to support continuous improvement of operational systems and digital processes.
+- Contributed to operational workflows within a nationally recognised sports governing body environment, supporting stakeholder communication and digital engagement initiatives.
 
+**Intern @ Barclays, Generating Genius STEM Programme (Jan 2015 - Sept 2016)**
+- Participated in challenge workshops and practical problem-solving exercises designed to simulate real-world commercial, analytical, and STEM-related scenarios.
+- Supported research activities involving product analysis, customer feedback evaluation, sponsorship assessment, and statistical information gathering.
+- Developed foundational analytical, research, and stakeholder communication skills through exposure to business operations, structured workshops, and STEM-focused professional development initiatives.
 
 ## Projects
 [Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
