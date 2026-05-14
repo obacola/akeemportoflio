@@ -54,6 +54,8 @@
 - Developed foundational analytical, research, and stakeholder communication skills through exposure to business operations, structured workshops, and STEM-focused professional development initiatives.
 
 ## Projects
+[Understanding Millenials Propensity to Invest through Contemporary Data](/assets/MSc_Project_Random_Forest_Classifier.ipynb)
+
 [Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
 
 [Big Data Project](/assets/BigDataReport.pdf)
