@@ -1,11 +1,8 @@
-# Quantitative Researcher
+# Data Scientist
 
 ### Education
 - MSc Big Data & Business Intelligence | University of Greenwich | Grade: Distinction (1st Class)
 - BSc Economics | Kingston University | Grade: Upper Second Class Honours (2:1)
-
-### Publications
-- Global Journal of Engineering and Technology Advances, 2024, 20(03), 006–033; A comprehensive review of combating EDoS attacks in cloud services with deep learning and advanced network security technologies including DDoS protection and intrusion prevention systems, DOI: [https://doi.org/10.30574/gjeta.2024.20.3.0168](assets/GJETA20240168.pdf)
 
 ### Work Experience 
 **Career Break (Dec 2025 - Present)**
@@ -54,7 +51,7 @@
 - Developed foundational analytical, research, and stakeholder communication skills through exposure to business operations, structured workshops, and STEM-focused professional development initiatives.
 
 ## Projects
-[Understanding Millenials Propensity to Invest through Contemporary Data](/assets/MSc_Project_Random_Forest_Classifier.ipynb)
+[Understanding Millenials Investment Propensity Through Contemporary Data](/assets/MSc_Project_Random_Forest_Classifier.ipynb)
 
 [Applied Machine Learning Code](/assets/AppliedMachineLearningCode.ipynb)
 
